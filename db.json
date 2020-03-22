@@ -1,4 +1,6 @@
 {
-    "CustomerResponseCode": "CA11",
-    "AccountResponseCode": "1111"
+    "p": {
+        "CustomerResponseCode": "CA11",
+        "AccountResponseCode": "1111"
+    }
 }
